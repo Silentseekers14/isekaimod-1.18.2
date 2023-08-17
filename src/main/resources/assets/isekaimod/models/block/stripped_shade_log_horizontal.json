@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column_horizontal",
+  "textures": {
+    "end": "isekaimod:block/stripped_shade_log_top",
+    "side": "isekaimod:block/stripped_shade_log_side"
+  }
+}

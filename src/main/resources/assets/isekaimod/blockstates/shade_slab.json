@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "isekaimod:block/shade_slab"
+    },
+    "type=double": {
+      "model": "isekaimod:block/shade_planks"
+    },
+    "type=top": {
+      "model": "isekaimod:block/shade_slab_top"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "isekaimod:magic_chunk",
+    "isekaimod:magisteel_block",
+    "isekaimod:cursed_steel_block",
+    "isekaimod:mythril_block",
+    "isekaimod:orichalcum_block",
+    "isekaimod:adamantite_block",
+    "isekaimod:scarletite_block",
+    "isekaimod:taratect_block"
+  ]
+}

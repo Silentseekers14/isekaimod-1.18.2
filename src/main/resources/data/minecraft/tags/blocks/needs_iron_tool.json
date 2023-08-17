@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+
+    "isekaimod:elroe_stone",
+    "isekaimod:elroe_stone_stairs",
+    "isekaimod:elroe_stone_slab",
+    "isekaimod:elroe_cobblestone",
+    "isekaimod:elroe_brick",
+    "isekaimod:elroe_brick_stairs",
+    "isekaimod:elroe_brick_slab",
+    "isekaimod:elroe_brick_wall",
+    "isekaimod:elroe_cobblestone_stairs",
+    "isekaimod:elroe_cobblestone_slab",
+    "isekaimod:elroe_cobblestone_wall"
+
+  ]
+}

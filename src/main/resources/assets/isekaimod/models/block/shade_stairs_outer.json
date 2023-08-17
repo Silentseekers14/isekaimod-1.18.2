@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "isekaimod:block/shade_planks",
+    "top": "isekaimod:block/shade_planks",
+    "side": "isekaimod:block/shade_planks"
+  }
+}

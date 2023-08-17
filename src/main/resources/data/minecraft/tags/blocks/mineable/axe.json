@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "isekaimod:nymph_log",
+    "isekaimod:stripped_nymph_log",
+    "isekaimod:stripped_nymph_wood",
+    "isekaimod:nymph_wood",
+    "isekaimod:nymph_planks",
+    "isekaimod:nymph_stairs",
+    "isekaimod:nymph_slab",
+    "isekaimod:nymph_fence",
+    "isekaimod:nymph_fence_gate",
+    "isekaimod:shade_log",
+    "isekaimod:stripped_shade_log",
+    "isekaimod:stripped_shade_wood",
+    "isekaimod:shade_wood",
+    "isekaimod:shade_planks",
+    "isekaimod:shade_stairs",
+    "isekaimod:shade_slab",
+    "isekaimod:shade_fence",
+    "isekaimod:shade_fence_gate"
+  ]
+}

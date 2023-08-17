@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "isekaimod:elroe_stone",
+    "isekaimod:elroe_stone_stairs",
+    "isekaimod:elroe_stone_slab",
+    "isekaimod:elroe_cobblestone",
+    "isekaimod:elroe_brick",
+    "isekaimod:elroe_brick_stairs",
+    "isekaimod:elroe_brick_slab",
+    "isekaimod:elroe_brick_wall",
+    "isekaimod:elroe_cobblestone_stairs",
+    "isekaimod:elroe_cobblestone_slab",
+    "isekaimod:elroe_cobblestone_wall",
+    "isekaimod:magic_chunk",
+    "isekaimod:magisteel_block",
+    "isekaimod:cursed_steel_block",
+    "isekaimod:mythril_block",
+    "isekaimod:orichalcum_block",
+    "isekaimod:adamantite_block",
+    "isekaimod:scarletite_block",
+    "isekaimod:taratect_block",
+    "isekaimod:future_block",
+    "isekaimod:future_plate_block"
+  ]
+}

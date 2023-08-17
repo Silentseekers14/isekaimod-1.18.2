@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "isekaimod:block/nymph_log_side",
+    "side": "isekaimod:block/nymph_log_side"
+  }
+}

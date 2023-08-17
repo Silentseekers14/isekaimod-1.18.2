@@ -1,0 +1,17 @@
+
+{
+  "variants": {
+    "axis=x": {
+      "model": "isekaimod:block/nymph_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "isekaimod:block/nymph_log"
+    },
+    "axis=z": {
+      "model": "isekaimod:block/nymph_log_horizontal",
+      "x": 90
+    }
+  }
+}

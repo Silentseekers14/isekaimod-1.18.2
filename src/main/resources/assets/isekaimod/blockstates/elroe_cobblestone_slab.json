@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "isekaimod:block/elroe_cobblestone_slab"
+    },
+    "type=double": {
+      "model": "isekaimod:block/elroe_cobblestone"
+    },
+    "type=top": {
+      "model": "isekaimod:block/elroe_cobblestone_slab_top"
+    }
+  }
+}

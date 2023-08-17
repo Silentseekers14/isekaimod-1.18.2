@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "isekaimod:block/elroe_brick",
+    "top": "isekaimod:block/elroe_brick",
+    "side": "isekaimod:block/elroe_brick"
+  }
+}

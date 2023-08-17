@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "isekaimod:block/nymph_wood"
+    },
+    "axis=z": {
+      "model": "isekaimod:block/nymph_wood",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "isekaimod:block/nymph_wood",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

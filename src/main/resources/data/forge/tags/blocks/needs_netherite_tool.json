@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "isekaimod:cursed_steel_block",
+    "isekaimod:mythril_block",
+    "isekaimod:orichalcum_block",
+    "isekaimod:adamantite_block",
+    "isekaimod:scarletite_block",
+    "isekaimod:future_block",
+    "isekaimod:future_plate_block"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "isekaimod:block/nymph_slab"
+    },
+    "type=double": {
+      "model": "isekaimod:block/nymph_planks"
+    },
+    "type=top": {
+      "model": "isekaimod:block/nymph_slab_top"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "isekaimodmod:nymph_log",
+    "isekaimodmod:nymph_wood",
+    "isekaimodmod:stripped_nymph_log",
+    "isekaimodmod:stripped_nymph_wood"
+  ]
+}
